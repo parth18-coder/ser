@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SER</string>
+    <string name="tap_mic_and_speak">Tap mic and speak</string>
+    <string name="joy">joy &#128522;</string>
+    <string name="sadness">sadness &#128543;</string>
+    <string name="fear">fear &#128552;</string>
+    <string name="anger">anger &#128544;</string>
+    <string name="surprise">surprise &#128562;</string>
+    <string name="neutral">neutral &#128528;</string>
+    <string name="disgust">disgust &#128534;</string>
+    <string name="shame">shame &#128560;</string>
+</resources>
